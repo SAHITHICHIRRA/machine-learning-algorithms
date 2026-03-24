@@ -8,10 +8,11 @@ Logistic Regression
 Decision Trees
 Random Forest
 Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
+
 🔹 Unsupervised Learning
 K-Means Clustering
 DBSCAN
-Hierarchical Clustering
+Aggloremative
+
 🔹 Reinforcement Learning
 Q-Learning
