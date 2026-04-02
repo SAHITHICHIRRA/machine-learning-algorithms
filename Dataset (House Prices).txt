@@ -1,0 +1,12 @@
+import pandas as pd
+
+data = {
+'Area':[1000,1500,1800,2400,3000],
+'Bedrooms':[2,3,3,4,4],
+'Age':[20,15,18,30,8],
+'Price':[300000,450000,500000,650000,700000]
+}
+
+df = pd.DataFrame(data)
+
+print(df)
